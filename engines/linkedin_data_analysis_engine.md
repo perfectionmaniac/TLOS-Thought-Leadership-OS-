@@ -3,7 +3,7 @@ document_type: Capability Specification
 system: TLOS
 capability: LinkedIn Data Analysis Engine
 version: 1.0
-status: Draft
+status: Approved
 owner: Alok Ranjan
 
 inputs:
