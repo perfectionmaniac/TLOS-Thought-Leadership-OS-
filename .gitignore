@@ -1,0 +1,35 @@
+# ============================================
+# TLOS Repository Ignore Rules
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.local
