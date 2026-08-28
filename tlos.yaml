@@ -1,1 +1,145 @@
-name: TLOSfull_name: Thought Leadership Operating Systemversion: 1.0.0status: Active Developmentowner: Founderchief_architect: ChatGPTrepository_type: AI Native Operating Systemvision: >  Build the world's first AI-native operating system for creating,  managing, distributing, measuring and continuously improving  thought leadership.principles:  - AI First  - Human Approved  - Documentation First  - Reusable Components  - Continuous Learning  - Automation by Default  - Version Everythingkernel:  name: Content Orchestrator  version: 1.0skills:  - Chief Content Strategist  - Positioning Expert  - Research Analyst  - LinkedIn Writer  - SEO Strategist  - Digital Marketing Strategist  - Carousel Designer  - Content Editor  - Performance Analyst  - Automation Engineexecution_order:  - Positioning  - Research  - Strategy  - Writing  - Editing  - SEO  - Publishing  - Analytics  - Learningknowledge_base:  enabled: truedecision_log:  enabled: trueautomation:  platform:    - n8nfuture_platforms:  - GitHub Actions  - MCP  - Claude  - Gemini  - ChatGPT  - Perplexityrepository_structure:  docs/  skills/  project/  templates/  frameworks/  automation/  assets/  releases/quality_gates:  - Evidence Based  - Reusable  - Documented  - Versioned  - AI Compatible  - Human Review Requireddefinition_of_done:  Every capability must:    - Solve a real problem    - Have documentation    - Be version controlled    - Be reusable    - Pass quality review    - Integrate with TLOSrelease_strategy:  format:    Release Packlearning_engine:  enabled: trueanalytics:  enabled: truefuture_modules:  - Knowledge OS  - Growth OS  - Automation OS  - Generator OS  - Enterprise Edition
+name: TLOS
+full_name: Thought Leadership Operating System
+version: 1.0.0
+status: Active Development
+owner: Founder
+chief_architect: ChatGPT
+repository_type: AI Native Operating System
+
+vision: >
+  Build the world's first AI-native operating system for creating,
+  managing, distributing, measuring and continuously improving
+  thought leadership.
+
+principles:
+  - AI First
+  - Human Approved
+  - Documentation First
+  - Reusable Components
+  - Continuous Learning
+  - Automation by Default
+  - Version Everything
+
+kernel:
+  name: Content Orchestrator
+  version: 1.0
+  file: workflows/content_orchestrator.md
+
+specialists:
+  - Chief Content Strategist
+  - Positioning Expert
+  - Research Analyst
+  - LinkedIn Writer
+  - SEO Strategist
+  - Digital Marketing Strategist
+  - Carousel Designer
+  - Content Editor
+  - Performance Analyst
+  - Automation Engine
+
+engines:
+  - Founder Voice Engine
+  - LinkedIn Analytics Intelligence Engine
+  - LinkedIn Data Analysis Engine
+  - Learning Intelligence Engine
+  - Recommendation Engine
+
+workflows:
+  - Content Production Workflow
+  - Writing Engine
+  - Review Engine
+  - Publishing Workflow
+  - Performance Analytics
+  - LinkedIn Growth OS
+
+operating_layer:
+  name: Universal AI Operating Layer
+  skills:
+    - SKILL-001 AI Operating Principles
+    - SKILL-002 Expert Council Engine
+    - SKILL-003 Thinking Framework
+    - SKILL-004 Knowledge Management
+    - SKILL-005 Memory & Context
+    - SKILL-006 Recommendation Framework
+    - SKILL-007 Workflow Execution
+    - SKILL-008 Quality Assurance
+    - SKILL-009 Output Formatting
+
+execution_order:
+  - Positioning
+  - Research
+  - Strategy
+  - Writing
+  - Editing
+  - SEO
+  - Publishing
+  - Analytics
+  - Learning
+
+knowledge_base:
+  enabled: true
+  location: knowledge/
+
+decision_log:
+  enabled: true
+  location: docs/DECISION_LOG.md
+
+automation:
+  platform:
+    - n8n
+  future_platforms:
+    - GitHub Actions
+    - MCP
+    - Claude
+    - Gemini
+    - ChatGPT
+    - Perplexity
+
+repository_structure:
+  - docs/
+  - skills/
+  - engines/
+  - workflows/
+  - knowledge/
+  - inputs/
+  - reports/
+  - research/
+  - automation/
+  - analytics/
+  - templates/
+  - founder/
+  - project/
+  - releases/
+
+quality_gates:
+  - Evidence Based
+  - Reusable
+  - Documented
+  - Versioned
+  - AI Compatible
+  - Human Review Required
+
+definition_of_done:
+  every_capability_must:
+    - Solve a real problem
+    - Have documentation
+    - Be version controlled
+    - Be reusable
+    - Pass quality review
+    - Integrate with TLOS
+
+release_strategy:
+  format: Release Pack
+
+learning_engine:
+  enabled: true
+
+analytics:
+  enabled: true
+
+future_modules:
+  - Knowledge OS
+  - Growth OS
+  - Automation OS
+  - Generator OS
+  - Enterprise Edition
